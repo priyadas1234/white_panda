@@ -1,2 +1,1 @@
-# white_panda
-Website
+# whitepanda
